@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href=(u1.md) style="text-decoration:none;">
+  <a href="https://github.com/fabricio7-ops/port.mat/blob/main/u1.md" style="text-decoration:none;">
     <span style="font-size: 28px;">📘 <strong>Volver a metodos de aprendizaje</strong></span>
   </a>
 </p>
