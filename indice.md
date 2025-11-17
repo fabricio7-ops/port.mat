@@ -4,7 +4,7 @@
 
 ---
 
-## 💻 **Portafolio Digital de Matematicas Discretas**
+## 💻 **Portafolio Digital  Matematicas Discretas**
 
 ### 👨‍🏫 **Docente:** Ing. Mario Cueva  
 ### 👨‍🎓 **Estudiante:** Lenin Macas
@@ -16,7 +16,7 @@
 
 | Unidad | Descripción |
 |:-------:|:-------------|
-| 📘 [**Unidad 1**] (unidad1.md) | LÓGICA MATEMÁTICA.  |
+| 📘 [Unidad 1] (unidad1.md) | LÓGICA MATEMÁTICA.  |
 | ⚙️ **Unidad 2** | ... |
 | 🧠 **Unidad 3** |... |
 | 📚 **Bibliografía** | Fuentes de consulta utilizadas |
